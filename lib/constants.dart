@@ -1,0 +1,1 @@
+const APP_BAR_HEIGHT = 100.0;
